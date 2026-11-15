@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "id": "coredls",
+  "version": "${version}",
+  "name": "CoreDLS",
+  "description": "Custom dark-blue loading screen for Fabric 1.21.4.",
+  "authors": ["ioksd"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.coredls.CoreDLSMod"]
+  }
+}
